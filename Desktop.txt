@@ -1,1 +1,3 @@
 this is desktop-File
+
+added second line through desktop gid to desktop.txt
